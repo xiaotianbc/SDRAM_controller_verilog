@@ -1,0 +1,157 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Bigboy/FPGA/modelsim_dlx64_10.6c/examples
+vgenerate_clk
+Z0 !s110 1675952997
+!i10b 1
+!s100 eYBI6eFU79_2NAa?SF2ZI2
+IoGnBdjURW;j05AeE?dIeF1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/gowin_projects/learn/DIY_SDRAM/sim
+w1675948207
+8D:/gowin_projects/learn/DIY_SDRAM/src/generate_clk.v
+FD:/gowin_projects/learn/DIY_SDRAM/src/generate_clk.v
+L0 5
+Z3 OP;L;10.6c;65
+r1
+!s85 0
+31
+Z4 !s108 1675952997.000000
+!s107 D:/gowin_projects/learn/DIY_SDRAM/src/generate_clk.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/gowin_projects/learn/DIY_SDRAM/src/generate_clk.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vsdram_aref
+R0
+!i10b 1
+!s100 JHkKaK>H;P7A;G?LFjo`]3
+I@<?HYc:U^@2k`n9El5Cmo3
+R1
+R2
+w1675952898
+8D:/gowin_projects/learn/DIY_SDRAM/src/sdram_aref.v
+FD:/gowin_projects/learn/DIY_SDRAM/src/sdram_aref.v
+L0 7
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/gowin_projects/learn/DIY_SDRAM/src/sdram_aref.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/gowin_projects/learn/DIY_SDRAM/src/sdram_aref.v|
+!i113 1
+R5
+R6
+vsdram_init
+R0
+!i10b 1
+!s100 kbM?cdn>^A`<`g@@Ug9XL3
+I;`a8coWA1@@ZJ3mOVR5Ke2
+R1
+R2
+w1675952566
+8D:/gowin_projects/learn/DIY_SDRAM/src/sdram_init.v
+FD:/gowin_projects/learn/DIY_SDRAM/src/sdram_init.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/gowin_projects/learn/DIY_SDRAM/src/sdram_init.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/gowin_projects/learn/DIY_SDRAM/src/sdram_init.v|
+!i113 1
+R5
+R6
+vsdram_model_plus
+R0
+!i10b 1
+!s100 ZOYAK7mOZ^HS7RlkKFCJ;3
+I[2e:5V`?@kMgBA3aE2RIz1
+R1
+R2
+w1675783460
+8D:/gowin_projects/learn/DIY_SDRAM/sim/sdram_model_plus.v
+FD:/gowin_projects/learn/DIY_SDRAM/sim/sdram_model_plus.v
+L0 59
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/gowin_projects/learn/DIY_SDRAM/sim/sdram_model_plus.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/gowin_projects/learn/DIY_SDRAM/sim/sdram_model_plus.v|
+!i113 1
+R5
+R6
+vsdram_top
+R0
+!i10b 1
+!s100 g3ZQ;BC515TKXR`oIi74d0
+ITTD6a@zjNo[969SDRXoD_3
+R1
+R2
+w1675952521
+8D:/gowin_projects/learn/DIY_SDRAM/src/sdram_top.v
+FD:/gowin_projects/learn/DIY_SDRAM/src/sdram_top.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/gowin_projects/learn/DIY_SDRAM/src/sdram_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/gowin_projects/learn/DIY_SDRAM/src/sdram_top.v|
+!i113 1
+R5
+R6
+vtb_sdram_top
+R0
+!i10b 1
+!s100 F`>IZColIR?FO63QfJ1TH2
+IFd`OIW7^[c3;hSAGKVI@C1
+R1
+R2
+w1675947310
+Z7 8D:/gowin_projects/learn/DIY_SDRAM/sim/tb_sdram_top.v
+Z8 FD:/gowin_projects/learn/DIY_SDRAM/sim/tb_sdram_top.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+Z9 !s107 D:/gowin_projects/learn/DIY_SDRAM/sim/tb_sdram_top.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|D:/gowin_projects/learn/DIY_SDRAM/sim/tb_sdram_top.v|
+!i113 1
+R5
+R6
+vtestbench
+!s110 1675944258
+!i10b 1
+!s100 fNW06iL^D7_gUhEC@25dI3
+IQg?nS;3Z^4m1A1W=Z2A001
+R1
+R2
+w1675785409
+R7
+R8
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1675944258.000000
+R9
+R10
+!i113 1
+R5
+R6

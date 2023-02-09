@@ -1,0 +1,38 @@
+D:/gowin_projects/learn/DIY_SDRAM/src/generate_clk.v {1 {vlog -work work -stats=none D:/gowin_projects/learn/DIY_SDRAM/src/generate_clk.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module generate_clk
+
+Top level modules:
+	generate_clk
+
+} {} {}} D:/gowin_projects/learn/DIY_SDRAM/src/sdram_top.v {1 {vlog -work work -stats=none D:/gowin_projects/learn/DIY_SDRAM/src/sdram_top.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module sdram_top
+
+Top level modules:
+	sdram_top
+
+} {} {}} D:/gowin_projects/learn/DIY_SDRAM/src/sdram_init.v {1 {vlog -work work -stats=none D:/gowin_projects/learn/DIY_SDRAM/src/sdram_init.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module sdram_init
+
+Top level modules:
+	sdram_init
+
+} {} {}} D:/gowin_projects/learn/DIY_SDRAM/sim/tb_sdram_top.v {1 {vlog -work work -stats=none D:/gowin_projects/learn/DIY_SDRAM/sim/tb_sdram_top.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module tb_sdram_top
+
+Top level modules:
+	tb_sdram_top
+
+} {} {}} D:/gowin_projects/learn/DIY_SDRAM/sim/sdram_model_plus.v {2 {vlog -work work -stats=none D:/gowin_projects/learn/DIY_SDRAM/sim/sdram_model_plus.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module sdram_model_plus
+** Warning: D:/gowin_projects/learn/DIY_SDRAM/sim/sdram_model_plus.v(838): (vlog-2576) [BSOB] - Bit-select into 'Dqm' is out of bounds.
+** Warning: D:/gowin_projects/learn/DIY_SDRAM/sim/sdram_model_plus.v(839): (vlog-2576) [BSOB] - Bit-select into 'Dqm' is out of bounds.
+
+Top level modules:
+	sdram_model_plus
+
+} {} {}}
